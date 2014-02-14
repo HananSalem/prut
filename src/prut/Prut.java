@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package prut;
 
 /**
@@ -17,9 +16,14 @@ public class Prut {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
         int h;
-        
+
     }
-    
+
+    public String sætning() {
+
+        return "Hello shaboobs";
+    }
+
 }
